@@ -1,5 +1,11 @@
 # @astrojs/mdx
 
+## 0.5.0
+
+### Minor Changes
+
+- [#4095](https://github.com/withastro/astro/pull/4095) [`40ef43a59`](https://github.com/withastro/astro/commit/40ef43a59b08a1a8fbcd9f4a53745a9636a4fbb9) Thanks [@bholmesdev](https://github.com/bholmesdev)! - Add IDs to MDX headings and expose via getHeadings() export
+
 ## 0.4.0
 
 ### Minor Changes
