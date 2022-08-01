@@ -2183,6 +2183,7 @@ importers:
       astro-scripts: workspace:*
       chai: ^4.3.6
       es-module-lexer: ^0.10.5
+      estree-util-is-identifier-name: ^2.0.1
       github-slugger: ^1.4.0
       gray-matter: ^4.0.3
       linkedom: ^0.14.12
@@ -2206,6 +2207,7 @@ importers:
       '@mdx-js/rollup': 2.1.2
       acorn: 8.8.0
       es-module-lexer: 0.10.5
+      estree-util-is-identifier-name: 2.0.1
       github-slugger: 1.4.0
       gray-matter: 4.0.3
       mdast-util-mdx: 2.0.0
