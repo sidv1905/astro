@@ -50,7 +50,8 @@
     "./vite-plugin-jsx/*": "./dist/vite-plugin-jsx/*",
     "./vite-plugin-jsx": "./dist/vite-plugin-jsx/index.js",
     "./vite-plugin-markdown": "./dist/vite-plugin-markdown/index.js",
-    "./vite-plugin-markdown/*": "./dist/vite-plugin-markdown/*"
+    "./vite-plugin-markdown/*": "./dist/vite-plugin-markdown/*",
+    "./vite-plugin-utils": "./dist/vite-plugin-utils/index.js"
   },
   "imports": {
     "#astro/*": "./dist/*.js"
@@ -107,6 +108,7 @@
     "eol": "^0.9.1",
     "es-module-lexer": "^0.10.5",
     "esbuild": "^0.14.43",
+    "estree-util-is-identifier-name": "^2.0.1",
     "estree-walker": "^3.0.1",
     "execa": "^6.1.0",
     "fast-glob": "^3.2.11",
